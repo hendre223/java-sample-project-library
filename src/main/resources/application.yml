@@ -1,0 +1,12 @@
+server:
+  port: 9192
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3309/library
+    username: root
+    password: S3cret
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
