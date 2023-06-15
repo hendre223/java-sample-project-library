@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.libraryhub</groupId>
-    <artifactId>iLibrary</artifactId>
+    <artifactId>libraryhub</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>iLibrary</name>
-    <description>iLibrary</description>
+    <description>Java simple project for book library</description>
     <properties>
         <java.version>17</java.version>
     </properties>
